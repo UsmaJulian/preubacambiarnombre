@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419660658084",
+    "firebase_url": "https://cambiar-nombre-d378c.firebaseio.com",
+    "project_id": "cambiar-nombre-d378c",
+    "storage_bucket": "cambiar-nombre-d378c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419660658084:android:b7e276c64a71006960bd31",
+        "android_client_info": {
+          "package_name": "com.juliandev.flutter_cambia_packagename"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419660658084-u0c1vbvr6gbb8030kua3912uu8eo3atb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juliandev.flutter_cambia_packagename",
+            "certificate_hash": "ea677fb253ef3889d022a036e4e04fb518973a6d"
+          }
+        },
+        {
+          "client_id": "419660658084-v7khsq0pouo77d25vha1mc7mqtmsft0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-aeW6ka5-5_fnbB6gG6FWkgUgSeDMyqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419660658084-v7khsq0pouo77d25vha1mc7mqtmsft0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
